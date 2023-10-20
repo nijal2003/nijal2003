@@ -1,4 +1,3 @@
-# nijal2003.github.io
 # Hello, I'm Nijal
 
 - Full Stack Developer
