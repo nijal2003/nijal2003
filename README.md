@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am Student of Information Technology 🎓 at DHARMSINH DESAI UNIVERSITY<br>🌱 I'm currently in to backend development<br>🤔 I'm looking at Devops , Cloud-computing<br>💬 Ask me about expresjs , react
+🔭 I am a Graduate in Information Technology 🎓 from Dharmsinh Desai University.<br>🌱 I'm currently in to Devops and backend development<br>🤔 I'm looking at Cloud-computing<br>💬
 
 
 ## 🌐 Socials:
